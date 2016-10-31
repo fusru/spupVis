@@ -1,9 +1,17 @@
 Package: spupVis
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Visualization methods for the 'spup' package.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Date: 2016-10-31
+Author: Kasia Sawicka
+Maintainer: Kasia Sawicka <kasia.sawicka@wur.nl>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
-LazyData: TRUE
+License: GPL-2
+VignetteBuilder: knitr
+Depends:
+    ggplot2,
+    raster,
+    gridExtra
+Suggests:
+    knitr
+RoxygenNote: 5.0.1
