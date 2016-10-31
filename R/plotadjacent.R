@@ -1,7 +1,3 @@
-  library(raster)
-  library(ggplot2)
-  library(gridExtra)
-
   #' Visualise Spatial Uncertainty using Adjacent Maps
   #'
   #' Allows for visualising spatial uncertainty in both continuous and categorical

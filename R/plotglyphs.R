@@ -1,6 +1,3 @@
-  library(raster)
-  library(ggplot2)
-
 #'   Visualise Spatial Uncertainty using Glyphs.
 #'
 #'   Allows for visualising spatial uncertainty for continuous data using glyphs.
